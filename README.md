@@ -1,2 +1,2 @@
 my-profile
- https://shahnawazalik.github.io/portfolio/.
+ https://shahnawazalik.github.io/profile/.
